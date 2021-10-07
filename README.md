@@ -17,6 +17,8 @@ for i in range(n):
 ### review paper
   - [The Role of Astrocytes in the Central Nervous System Focused on BK Channel and Heme Oxygenase Metabolites: A Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6562853/, "co-first author")
 
+![엘사](엘사.jpg){: width="50" height="50"}
+
 # 깃허브
 ## 깃허브
 ### 깃허브
